@@ -1,0 +1,2 @@
+[default.databases.company]
+url = "postgres://test:password@localhost:5450/company"
